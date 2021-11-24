@@ -1,0 +1,1 @@
+# lab10.tp.oop.fixed
